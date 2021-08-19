@@ -15,9 +15,9 @@
 
 ## The Task
 
-1) Create a productity app using Vuejs or React
-   1) Use [Vuex](https://vuex.vuejs.org/) or similar for state management
-2) The app will have 3 components
+1) Create a productity app using Vuejs or React.
+   1) Use [Vuex](https://vuex.vuejs.org/) or similar for state management.
+2) The app will have 3 components:
    1) A simple todo component
    1) A simple calculator component
    1) A simple counter component
@@ -26,6 +26,7 @@
 
 ### Bonus Tasks
 
-1) Implement [Storybook](https://storybook.js.org/docs/vue/get-started/introduction) for the app
+1) Implement [Storybook](https://storybook.js.org/docs/vue/get-started/introduction) for the app.
    1) Make it so that each component and its sub-components are available for editing in storybook for our designers using the command `yarn storybook`.
-2) Add unit tests or e2e tests
+2) Add unit tests or e2e tests.
+3) Live demo of functioning application.
